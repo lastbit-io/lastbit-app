@@ -8,16 +8,14 @@ A significantly improved application with a whole new set of features can be fou
 
 
 ### Screenshots
-![Alt text](/assets/screenshots/screen_6.PNG?raw=true "Main Screen")
-![Alt text](/assets/screenshots/screen_3.PNG?raw=true "Backup Screen")
-![Alt text](/assets/screenshots/screen_4.PNG?raw=true "LN1 Screen")
-![Alt text](/assets/screenshots/screen_1.PNG?raw=true "Lastbit ID Screen")
-![Alt text](/assets/screenshots/screen_2.PNG?raw=true "Settings Screen")
-![Alt text](/assets/screenshots/screen_5.PNG?raw=true "LN2 Screen")
 
 <p align="center">
-  <img src="/assets/screenshots/screen_6.PNG" width="256" height="455">
-  <img src="/assets/screenshots/screen_6.PNG" width="256" height="455">
+  <img src="/assets/screenshots/screen_6.PNG"  height="455">
+  <img src="/assets/screenshots/screen_3.PNG"  height="455">
+  <img src="/assets/screenshots/screen_4.PNG"  height="455">
+  <img src="/assets/screenshots/screen_1.PNG"  height="455">
+  <img src="/assets/screenshots/screen_2.PNG"  height="455">
+  <img src="/assets/screenshots/screen_5.PNG"  height="455">
 </p>
 
 (USE ON MAINNET AT YOUR OWN RISK)
