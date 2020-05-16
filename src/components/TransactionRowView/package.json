@@ -1,0 +1,4 @@
+{
+    "name": "transaction-row",
+    "main": "./TransactionRowView.js"
+}

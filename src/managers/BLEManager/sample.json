@@ -1,0 +1,28 @@
+{
+  "nested": {
+    "com": {
+      "nested": {
+        "book": {
+          "nested": {
+            "Book": {
+              "fields": {
+                "isbn": {
+                  "type": "int64",
+                  "id": 1
+                },
+                "title": {
+                  "type": "string",
+                  "id": 2
+                },
+                "author": {
+                  "type": "string",
+                  "id": 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

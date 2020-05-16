@@ -1,0 +1,4 @@
+{
+    "name": "receive-lightning-payment",
+    "main": "./ReceiveLightningPayment"
+}

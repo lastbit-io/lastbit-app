@@ -1,0 +1,4 @@
+{
+    "name":"add-lightning-funds",
+    "main":"./AddLightningFunds.js"
+}

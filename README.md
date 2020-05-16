@@ -1,4 +1,4 @@
-# A hybrid Bitcoin and Lightning Network Wallet + Interface to the Lastbit Go device
+# Mobile Bitcoin and Lightning Network Interface to the Lastbit Go device
 
 This application was tested with a group of beta users on testnet only and connects to a c-lightning backend with an account management server running on top of c-lightning.
 

@@ -1,0 +1,4 @@
+{
+    "main": "./LightningManager.js",
+    "name": "lightning-manager"
+}

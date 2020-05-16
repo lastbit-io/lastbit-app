@@ -1,0 +1,4 @@
+{
+    "main": "./KeyManager.js",
+    "name": "key-manager"
+}

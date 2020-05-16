@@ -1,0 +1,4 @@
+{
+    "name": "theme-manager",
+    "main": "./index.js"
+}

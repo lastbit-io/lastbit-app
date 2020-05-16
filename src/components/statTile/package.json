@@ -1,0 +1,4 @@
+{
+    "name": "stat-tile",
+    "main": "./StatTile.js"
+}

@@ -1,0 +1,4 @@
+{
+    "main": "./UnitManager.js",
+    "name": "unit-manager"
+}

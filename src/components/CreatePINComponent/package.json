@@ -1,0 +1,4 @@
+{
+  "name": "create-pin",
+  "main": "./CreatePINComponent.js"
+}

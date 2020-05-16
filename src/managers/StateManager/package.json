@@ -1,0 +1,4 @@
+{
+    "main": "./StateManager.js",
+    "name": "state-manager"
+}

@@ -1,0 +1,4 @@
+{
+    "name": "wallet-manager",
+    "main": "./WalletManager.js"
+}

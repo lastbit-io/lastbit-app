@@ -1,0 +1,4 @@
+{
+    "name": "socket-manager",
+    "main": "./SocketManager.js"
+}

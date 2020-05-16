@@ -1,0 +1,4 @@
+{
+    "main": "./LanguageManager.js",
+    "name": "language-manager"
+}

@@ -1,0 +1,4 @@
+{
+    "name": "simple-lightning-invoice",
+    "main": "./SimpleLightningInvoice"
+}

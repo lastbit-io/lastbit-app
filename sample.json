@@ -1,0 +1,32 @@
+{
+  "nested": {
+    "com": {
+      "nested": {
+        "hodler": {
+          "nested": {
+            "data": {
+              "fields": {
+                "sighashes": {
+                  "type": "string",
+                  "id": 1
+                },
+                "walletPath": {
+                  "type": "string",
+                  "id": 2
+                },
+                "address": {
+                  "type": "string",
+                  "id": 3
+                },
+                "amount": {
+                  "type": "int64",
+                  "id": 4
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

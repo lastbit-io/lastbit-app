@@ -1,0 +1,4 @@
+{
+    "name": "language-selector",
+    "main": "./LanguageSelector.js"
+}
