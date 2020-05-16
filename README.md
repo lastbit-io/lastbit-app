@@ -7,6 +7,8 @@ The goal of this application is to provide a single interface to a private bitco
 A significantly improved application with a whole new set of features can be found on www.lastbit.io
 
 
+<img src="/assets/screenshots/demo_2.gif"/>
+
 ### Screenshots
 
 <p align="center">
